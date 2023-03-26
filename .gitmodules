@@ -1,0 +1,3 @@
+[submodule "deploying-machine-learning-models"]
+	path = deploying-machine-learning-models
+	url = https://github.com/trainindata/deploying-machine-learning-models.git
